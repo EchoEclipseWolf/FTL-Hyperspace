@@ -93,6 +93,7 @@ target_sources(
     CrewBox_Extend.cpp
     CrewBox_Extend.h
     CrewManifestVTable.cpp
+    CrewMember_cbridge.cpp
     CrewMember_Extend.cpp
     CrewMember_Extend.h
     CrewNames.cpp
@@ -190,6 +191,7 @@ target_sources(
     FTLGameWin32.h
     Global.cpp
     Global.h
+    GlobalAccess_cbridge.cpp
     HackingSystem.cpp
     HSVersion.h
     HullNumbers.cpp
